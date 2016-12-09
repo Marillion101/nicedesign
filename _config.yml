@@ -1,7 +1,7 @@
 # Site
-title: Undiscovered Attractions 2
+title: Undiscovered Attractions
 description: Attraction suggestions written by the locals.
-url: "http://"
+url: https://www.undiscoveredattractions.com
 logo: halve.png                                       # Site logo
 locale: en_UK
 
